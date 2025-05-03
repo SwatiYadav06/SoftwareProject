@@ -1,52 +1,87 @@
-## Software Testing Project Documentation
-Manual Testing
-Status
+## Software Testing Project
 
-📌 Project Overview
-This repository contains comprehensive documentation for manual testing of [Project Name/Application Name]. It includes test cases, checklists, and reporting templates for functional, UI, and exploratory testing.
+## Manual Testing Project — 
+Comprehensive test plans and detailed test cases designed to ensure software quality and reliability. Includes structured documentation to guide manual testing efforts for web and mobile applications.
 
-## ✅ Deliverables
+## 🧪 Manual Testing Project
+A comprehensive manual testing project repository that contains a structured Test Plan and detailed Test Cases to ensure the quality, functionality, and reliability of the application under test (AUT).
 
-| Document              | Description                                      |
-|-----------------------|--------------------------------------------------|
-| Test Plan             | Outlines scope, strategy, entry/exit criteria    |
-| Test Cases            | Test scenarios covering functional flows         |
-| Bug Reports           | Defect log in JIRA format                        |
-| Test Summary Report   | Summary of test execution and defect trends      |
-| Screenshots           | Visual evidence for failed test cases            |
+## 📌 Table of Contents
+Project Overview
+Folder Structure
+Test Plan
+Test Cases
+How to Use
+Technologies & Tools
+Contributing
+Contact
 
----
+## 📋 Project Overview
+This project aims to define, document, and execute a set of manual tests to validate the application's core functionalities and non-functional requirements.
+This repository serves as a resource for:
 
-## 🧪 Test Environment
+## QA Engineers
+Developers
+Project Managers
+Stakeholders
 
-- **Browsers**: Chrome, Firefox, Edge, Safari
-- **Devices**: Windows 11, Android, iOS
-- **Test Type**: Manual Functional, UI, Usability, and Cross-Browser
+## 📝 Test Plan
+The Test Plan outlines the testing strategy, scope, objectives, resources, schedule, and deliverables.
 
----
+## 📄 Location: TestPlan_Document.pdf
 
-## 🚦 Test Workflow
+## Contents of the Test Plan:
 
-1. Requirement Analysis
-2. Test Case Design
-3. Test Case Review
-4. Test Execution (manual)
-5. Bug Logging (JIRA format)
-6. Retesting & Closure
-7. Test Summary Report
+## Scope of Testing
+Test Objectives
+Resources and Roles
+Test Environment
+Test Deliverables
+Entry and Exit Criteria
+Risks and Mitigation
+## ✅ Test Cases
+The Test Cases provide detailed step-by-step actions to validate the application’s features and functionality.
 
----
+## 📂 Location: /Test_Cases/
 
-## 🛠 Tools Used
+## Test Case Categories:
 
-- **Excel / Google Sheets** – Test case and defect management
-- **JIRA** – Bug reporting (simulated format)
-- **Snipping Tool / Lightshot** – Capturing screenshots
-- **Browser DevTools** – UI and Console error tracking
+Functional Test Cases
+Regression Test Cases
+UI Test Cases
+Smoke Test Cases
+Each test case includes:
 
----
+## Test Case ID
+Title/Description
+Preconditions
+Test Steps
+Expected Result
+Actual Result
+Status (Pass/Fail)
 
-## 🤝 Contributors
+Execute the relevant test cases as per the module or feature under test.
 
-- **QA Analyst**: Your Name
-- **Mentor/Reviewer**: Optional
+Document results and report any defects using your team’s bug tracking tool.
+
+## 🛠️ Technologies & Tools Documentation: MS Word, Excel (or Google Docs/Sheets)
+
+## Bug Tracking: JIRA, Bugzilla (optional)
+
+Test Management: TestRail, Zephyr (optional)
+
+## 🤝 Contributions, suggestions, and improvements are welcome!
+
+Fork the repository
+
+Create a new branch (git checkout -b feature-branch)
+
+Commit your changes (git commit -m 'Add new test cases')
+
+Push to the branch (git push origin feature-branch)
+
+Open a Pull Request
+
+📞 Contact For queries, suggestions, or collaborations:
+
+Swati Yadav https://www.linkedin.com/in/swatiiyadav/
