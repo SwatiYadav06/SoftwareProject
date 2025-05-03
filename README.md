@@ -1,4 +1,4 @@
-Manual Testing Project Documentation
+## Software Testing Project Documentation
 Manual Testing
 Status
 
